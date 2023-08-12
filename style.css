@@ -9,7 +9,9 @@ h1{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
     line-height: 72px;
-    color: #0296E5;
+    color: #242a32;
+    text-shadow: 2px 0 #0296E5, -2px 0 #0296E5, 0 2px #0296E5, 0 -2px #0296E5,
+               1px 1px #0296E5, -1px -1px #0296E5, 1px -1px #0296E5, -1px 1px #0296E5;
 }
 .container {
     margin: 10vh 10vw;
